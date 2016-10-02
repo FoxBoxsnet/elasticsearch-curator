@@ -1,5 +1,5 @@
 # airforon/elasticsearch-curator
-![License MIT](https://img.shields.io/badge/license-MIT-blue.svg) [![](https://img.shields.io/docker/stars/airforon/elasticsearch-curator.svg)](https://hub.docker.com/r/airforon/elasticsearch-curator/ 'DockerHub') [![](https://img.shields.io/docker/pulls/airforon/elasticsearch-curator.svg)](https://hub.docker.com/r/airforon/elasticsearch-curator/ 'DockerHub') [![](https://images.microbadger.com/badges/image/airforon/elasticsearch-curator.svg)](https://microbadger.com/images/airforon/elasticsearch-curator)
+![License MIT](https://img.shields.io/badge/license-MIT-blue.svg) [![](https://img.shields.io/docker/stars/airforon/elasticsearch-curator.svg)](https://hub.docker.com/r/airforon/elasticsearch-curator/ 'DockerHub') [![](https://img.shields.io/docker/pulls/airforon/elasticsearch-curator.svg)](https://hub.docker.com/r/airforon/elasticsearch-curator/ 'DockerHub') [![](https://images.microbadger.com/badges/image/airforon/elasticsearch-curator.svg)](https://microbadger.com/images/airforon/elasticsearch-curator) [![CircleCI](https://circleci.com/gh/airforon/elasticsearch-curator.svg?style=svg)](https://circleci.com/gh/airforon/elasticsearch-curator)
 
 
 ## How To
