@@ -10,4 +10,4 @@ RUN \
 ADD docker-entrypoint.sh /
 
 ENTRYPOINT [ "/docker-entrypoint.sh" ]
-CMD [ "crond", "-l", "2". "-f" ]
+CMD [ "crond", "-l", "2", "-f" ]
